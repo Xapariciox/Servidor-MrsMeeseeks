@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "json-server --watch -p 4500 db.json",
+        "start": "node index.js",
+        "start:watch": "json-server --watch -p 3500 db.json",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
