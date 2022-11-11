@@ -4,7 +4,7 @@
         {
             "id": 1,
             "name": "NIKECRAFT GENERAL PURPOSE",
-            "offer": false,
+            "offer": true,
             "price": 99.99,
             "brand": "Nike",
             "color": "Moztaza",
@@ -24,7 +24,7 @@
         {
             "id": 3,
             "name": "NIKE ZOOM CORTEZ X SACAI WHITE AND UNIVERSITY RED",
-            "offer": false,
+            "offer": true,
             "price": 120,
             "brand": "Nike",
             "color": "White and red",
@@ -34,7 +34,7 @@
         {
             "id": 4,
             "name": "ADIDAS 4DFWD -2022-",
-            "offer": false,
+            "offer": true,
             "price": 150,
             "brand": "Nike",
             "color": "Gris and Black",
@@ -44,7 +44,7 @@
         {
             "id": 5,
             "name": "NIKE AIR MAX 1 DE PATTA ",
-            "offer": false,
+            "offer": true,
             "price": 300,
             "brand": "Nike",
             "color": "White",
@@ -56,7 +56,7 @@
         {
             "id": 1,
             "name": "white socks",
-            "offer": false,
+            "offer": true,
             "brand": "adidas",
             "price": 20,
             "color": "White",
@@ -86,7 +86,7 @@
         {
             "id": 4,
             "name": "white socks",
-            "offer": false,
+            "offer": true,
             "brand": "Mpaa",
             "price": 10,
             "color": "Brown",
