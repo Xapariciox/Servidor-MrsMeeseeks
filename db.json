@@ -2,9 +2,9 @@
     "Favorites": [],
     "sneakers": [
         {
-            "id": "1",
+            "id": 1,
             "name": "NIKECRAFT GENERAL PURPOSE",
-            "offer": false,
+            "offer": true,
             "price": 99.99,
             "brand": "Nike",
             "color": "Moztaza",
@@ -12,7 +12,7 @@
             "Description": "The NikeCraft General Purpose, also known as the Tom Sachs Nikes, do not stop giving us joy. In recent months, three different colors of this spectacular utilitarian and minimalist model have been put on sale: a beautiful off-white color, in mustard and a very attractive white and blue. These are perfect sneakers for fall and we recommend wearing them with jogger pants."
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "ADIDAS YEEZY BOOST 350 V2",
             "offer": false,
             "price": 120,
@@ -22,9 +22,9 @@
             "Description": "Originally identified as a Reverse Oreo colorway, the new look noticeably inverts one of the YEEZY BOOST 350 V2's original colorways with its beige colorway contrasted by a black side stripe. Typical sneaker construction makes a return as a Primeknit upper is supported by a full-length BOOST midsole that's covered by a translucent sole unit. Lastly, while some looks have favored a white stripe, the classic SPLY-350 text appears in the shoe's shade of beige on the side stripe."
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "NIKE ZOOM CORTEZ X SACAI WHITE AND UNIVERSITY RED",
-            "offer": false,
+            "offer": true,
             "price": 120,
             "brand": "Nike",
             "color": "White and red",
@@ -32,9 +32,9 @@
             "Description": "Tras tener un éxito bestial con las Sacai x Nike LDV Waffle,  con las Sacai x Nike Vaporwaffle y con las Sacai x Nike Blazer Low ahora la marca japonesa que comanda Chitose Abe se atreve a remezclar uno de los grandes iconos de la compañía del Swoosh, las Nike Cortez. "
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "ADIDAS 4DFWD -2022-",
-            "offer": false,
+            "offer": true,
             "price": 150,
             "brand": "Nike",
             "color": "Gris and Black",
@@ -42,9 +42,9 @@
             "Description": "The 2022 adidas 4DFWD is the second generation of the adidas 4DFWD, the first mass-market running shoe to feature a 3D printed midsole. What advantages do these shoes have over other running models with a foam midsole? The main one is that this model takes advantage of the vertical energy of the runner like no other and propels him forward."
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "NIKE AIR MAX 1 DE PATTA ",
-            "offer": false,
+            "offer": true,
             "price": 300,
             "brand": "Nike",
             "color": "White",
@@ -54,9 +54,9 @@
     ],
     "socks": [
         {
-            "id": "1",
+            "id": 1,
             "name": "white socks",
-            "offer": false,
+            "offer": true,
             "brand": "adidas",
             "price": 20,
             "color": "White",
@@ -64,7 +64,7 @@
             "Description": "Among a man's repertoire of socks, white sports aesthetics cannot be missing, the ones that have become more popular after the rise of Adidas streetwear. They're the ones you'll wear with loafers (Michael Jackson style) or even flip-flops (Mahmood style)."
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "black socks",
             "offer": false,
             "brand": "carb",
@@ -74,7 +74,7 @@
             "Description": "Among a man's repertoire of socks, white sports aesthetics cannot be missing, the ones that have become more popular after the rise of Adidas streetwear. They're the ones you'll wear with loafers (Michael Jackson style) or even flip-flops (Mahmood style)."
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Socks Rombos",
             "offer": false,
             "brand": "Sf",
@@ -84,9 +84,9 @@
             "Description": "Now that the preppy aesthetic has become established in our wardrobes, men's socks are printed with the same diamond pattern that characterizes the vests of the young men of the Ivy League. In a neutral color or a more striking color, you have the last word.."
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "white socks",
-            "offer": false,
+            "offer": true,
             "brand": "Mpaa",
             "price": 10,
             "color": "Brown",
@@ -94,7 +94,7 @@
             "Description": "Although blacks are the kings of the wardrobe, brown men's socks are also a must if you are going to wear shoes in this same tone.."
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "Green socks",
             "offer": false,
             "brand": "Nike",
