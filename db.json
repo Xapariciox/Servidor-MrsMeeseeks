@@ -24,7 +24,7 @@
         {
             "id": 3,
             "name": "NIKE ZOOM CORTEZ X SACAI WHITE AND UNIVERSITY RED",
-            "offer": true,
+            "offer": false,
             "price": 120,
             "brand": "Nike",
             "color": "White and red",
@@ -34,7 +34,7 @@
         {
             "id": 4,
             "name": "ADIDAS 4DFWD -2022-",
-            "offer": true,
+            "offer": false,
             "price": 150,
             "brand": "Nike",
             "color": "Gris and Black",
@@ -44,7 +44,7 @@
         {
             "id": 5,
             "name": "NIKE AIR MAX 1 DE PATTA ",
-            "offer": true,
+            "offer": false,
             "price": 300,
             "brand": "Nike",
             "color": "White",
